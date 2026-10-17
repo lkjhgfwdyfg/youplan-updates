@@ -1,0 +1,10 @@
+{
+  "latest": "0.5.0",
+  "notes": [
+    "新增「检查更新」：有新版本时会轻轻提醒你",
+    "设置页可以随时手动检查更新",
+    "更新弹窗可以勾选「不再提醒这个版本」"
+  ],
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lkjhgfwdyfg/youplan-updates@main/youplan-v0.5.0.apk",
+  "publishedAt": "2026-10-17"
+}
