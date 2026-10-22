@@ -1,10 +1,11 @@
 {
-  "latest": "0.5.1",
+  "latest": "0.5.2",
   "notes": [
     "设置页「关于」新增累计写字数",
     "统计你写下的计划、日记、灵感、记录文字",
-    "温柔见证，只增不减"
+    "温柔见证，只增不减",
+    "修复：更新检查偶尔拿到旧清单（已加缓存绕过）"
   ],
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lkjhgfwdyfg/youplan-updates@main/youplan-v0.5.1.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lkjhgfwdyfg/youplan-updates@main/youplan-v0.5.2.apk",
   "publishedAt": "2026-10-22"
 }
