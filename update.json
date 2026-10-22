@@ -1,10 +1,10 @@
 {
-  "latest": "0.5.0",
+  "latest": "0.5.1",
   "notes": [
-    "新增「检查更新」：有新版本时会轻轻提醒你",
-    "设置页可以随时手动检查更新",
-    "更新弹窗可以勾选「不再提醒这个版本」"
+    "设置页「关于」新增累计写字数",
+    "统计你写下的计划、日记、灵感、记录文字",
+    "温柔见证，只增不减"
   ],
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lkjhgfwdyfg/youplan-updates@main/youplan-v0.5.0.apk",
-  "publishedAt": "2026-10-17"
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lkjhgfwdyfg/youplan-updates@main/youplan-v0.5.1.apk",
+  "publishedAt": "2026-10-22"
 }
