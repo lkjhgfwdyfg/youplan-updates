@@ -1,10 +1,10 @@
 {
-  "latest": "0.5.3",
+  "latest": "0.5.4",
   "notes": [
-    "新增一句温柔语录：J.K.罗琳（哈佛演讲）",
-    "老用户也能看到新增的内置语录（增量合并）",
-    "修复：更新检查偶尔拿到旧清单"
+    "修复：安装时不再提示「已安装相同版本」（安卓版本号已与 App 同步）",
+    "更新下载改为 App 内进行，不再跳转浏览器",
+    "下载进度看通知栏，完成后点通知即可安装"
   ],
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lkjhgfwdyfg/youplan-updates@main/youplan-v0.5.3.apk",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lkjhgfwdyfg/youplan-updates@main/youplan-v0.5.4.apk",
   "publishedAt": "2026-10-23"
 }
