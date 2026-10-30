@@ -1,10 +1,7 @@
 {
-  "latest": "0.5.5",
-  "notes": [
-    "更新下载真正在 App 内部进行：有进度条，不再跳转浏览器",
-    "下载完成自动打开系统安装界面",
-    "安装时不再提示「已安装相同版本」"
-  ],
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lkjhgfwdyfg/youplan-updates@main/youplan-v0.5.5.apk",
-  "publishedAt": "2026-10-23"
+  "latest": "0.5.6",
+  "versionCode": 7,
+  "url": "https://cdn.jsdelivr.net/gh/lkjhgfwdyfg/youplan-updates@main/youplan-v0.5.6.apk",
+  "notes": "导出备份修复：现在点「导出 JSON」会真实生成备份文件，并弹出系统菜单让你保存到手机或发送给其他应用，不再是只弹提示的空按钮。其他功能不变。",
+  "publishedAt": "2026-10-30T11:00:00+08:00"
 }
